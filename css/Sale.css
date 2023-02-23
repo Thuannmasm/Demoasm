@@ -12,7 +12,7 @@
 
 header{
     width: 100%;
-    height: 710px;
+    height: 130px;
 }
 header > nav{
     line-height: 50px;
@@ -100,7 +100,7 @@ input{
     .img{
         background-image: url(../img/backgroud.jpg);
         width: 100%;
-        height: 690px;
+        height: 760px;
     }
 main{
     max-width: 1300px;
